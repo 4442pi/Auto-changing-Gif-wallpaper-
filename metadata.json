@@ -1,0 +1,5 @@
+{
+  "name": "Live GIF Wallpaper",
+  "description": "A dynamic wallpaper application that cycles through your favorite GIFs based on time or screen events.",
+  "requestFramePermissions": []
+}
